@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color:sandybrown}
+
+#Logo {float:left}
+#Icon {float:right}
+#Button {clear:both;border-top:solid black 1.5px;border-bottom:solid black 1.5px;padding:10px 0px 10px 0px;}
+#Button a {font-family:Impact;margin-left:10px;text-decoration-line: none;color:black;}
+
+#Button a:hover {color:orange;}
+
+#Title {color:orange;border-bottom:solid black 1px;}
+
+#Intro {float:left; width:630px;}
+#Intro img {border:solid black 1px;padding:5px 5px 5px 5px;margin:10px 10px 10px 10px;}
+
+#News {float:right;width:250px;}
+#News h3 {color:orange}
+#copyright {clear:both;text-align:center;border-top:solid black 1px;}
+
+#Kotak {background-color:white;width:900px; margin:0px auto 0px auto;padding:25px 25px 25px 25px;}
